@@ -1,2 +1,4 @@
 # code-share
-You can share your code here. And the only rule is that you should always open new folder with your name on parent folder and new folder in your folder for every new project you are working on!
+You can share your code here! Just make sure to:  
+1. Create a folder with your name inside the main folder.  
+2. For each new project, create a separate folder inside your folder.
