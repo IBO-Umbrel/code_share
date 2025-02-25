@@ -47,3 +47,27 @@ for row in matrix:
         if div(x, 2, 1):
             values.append(column)
 print(values)
+
+
+# more tasks
+lst = [1, 2, 3]
+rev_lst = [3, 2, 1]
+g = []
+for x in lst:
+    for y in rev_lst:
+        g.append((x, y))
+print(g)
+
+
+MILLION_NUMBERS = list(range(100))
+def for_loop():
+    return [element for element in MILLION_NUMBERS if not div(element, 2)]
+print(for_loop())
+
+
+days = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Saturday"]
+temp_C = [30.5, 32.6, 31.8, 33.4, 29.8, 30.2, 29.9]
+weekly_temp = {}
+for (day, temp) in zip(days, temp_C):
+    weekly_temp[day] = temp
+print(weekly_temp)
