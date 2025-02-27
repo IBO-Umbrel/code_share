@@ -1,0 +1,15 @@
+C:\work_space\Projects\code_share\ibrohimjon_toshtemirov\tasks\csharp\bin\Debug\net9.0\csharp.exe
+C:\work_space\Projects\code_share\ibrohimjon_toshtemirov\tasks\csharp\bin\Debug\net9.0\csharp.deps.json
+C:\work_space\Projects\code_share\ibrohimjon_toshtemirov\tasks\csharp\bin\Debug\net9.0\csharp.runtimeconfig.json
+C:\work_space\Projects\code_share\ibrohimjon_toshtemirov\tasks\csharp\bin\Debug\net9.0\csharp.dll
+C:\work_space\Projects\code_share\ibrohimjon_toshtemirov\tasks\csharp\bin\Debug\net9.0\csharp.pdb
+C:\work_space\Projects\code_share\ibrohimjon_toshtemirov\tasks\csharp\obj\Debug\net9.0\csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\work_space\Projects\code_share\ibrohimjon_toshtemirov\tasks\csharp\obj\Debug\net9.0\csharp.AssemblyInfoInputs.cache
+C:\work_space\Projects\code_share\ibrohimjon_toshtemirov\tasks\csharp\obj\Debug\net9.0\csharp.AssemblyInfo.cs
+C:\work_space\Projects\code_share\ibrohimjon_toshtemirov\tasks\csharp\obj\Debug\net9.0\csharp.csproj.CoreCompileInputs.cache
+C:\work_space\Projects\code_share\ibrohimjon_toshtemirov\tasks\csharp\obj\Debug\net9.0\csharp.sourcelink.json
+C:\work_space\Projects\code_share\ibrohimjon_toshtemirov\tasks\csharp\obj\Debug\net9.0\csharp.dll
+C:\work_space\Projects\code_share\ibrohimjon_toshtemirov\tasks\csharp\obj\Debug\net9.0\refint\csharp.dll
+C:\work_space\Projects\code_share\ibrohimjon_toshtemirov\tasks\csharp\obj\Debug\net9.0\csharp.pdb
+C:\work_space\Projects\code_share\ibrohimjon_toshtemirov\tasks\csharp\obj\Debug\net9.0\csharp.genruntimeconfig.cache
+C:\work_space\Projects\code_share\ibrohimjon_toshtemirov\tasks\csharp\obj\Debug\net9.0\ref\csharp.dll
