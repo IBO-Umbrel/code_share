@@ -16,8 +16,8 @@ def reader(filename: str):
         return file.readlines()
     
 
-ramadan_txt = reader("C:\\work_space\\Projects\\code_share\\ibrohimjon_toshtemirov\\ramadan_mubarak\\ramadan.txt")
-mubarak_txt = reader("C:\\work_space\\Projects\\code_share\\ibrohimjon_toshtemirov\\ramadan_mubarak\\mubarak.txt")
+ramadan_txt = reader("ibrohimjon_toshtemirov/ramadan_mubarak/ramadan.txt")
+mubarak_txt = reader("ibrohimjon_toshtemirov/ramadan_mubarak/mubarak.txt")
 
 
 async def run():
