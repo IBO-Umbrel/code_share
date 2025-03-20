@@ -43,7 +43,7 @@ def count_occurrence(text: str, char: str):
 # 5. Replace All ‘A’ with ‘B’ in a String
 def replace(search: str, replacement: str, text: str):
     if text:
-        return replacement + replace(search, replacement, text[1:]) if text[0] == search else replace(search, replacement, text[1:])
+        return replacement + replace(search, replacement, text[1:]) if text[0] == search else text[0] + replace(search, replacement, text[1:])
     return text
 
 
@@ -65,4 +65,5 @@ def is_sorted(array: list):
 # print(unduplicate("hello"))
 # print(get_largest_element([4, 9023, 109, 3004]))
 # print(count_occurrence("hello word", "l"))
-print(is_sorted([1, 2, 3, 3, 5]))
+print(replace("A", "B", "ABACADA"))
+# print(is_sorted([1, 2, 4, 3, 3, 5]))
